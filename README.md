@@ -32,7 +32,7 @@ La aplicación **no requiere abrir la terminal** y es muy ligera para tu sistema
 
 ## 🖥️ Instalación
 
-1. Descarga el archivo `.deb` de **Frases Bonitas**.
+1. Descarga el archivo `.deb` de **Frases-app**.
 2. Abre la terminal en la carpeta donde se encuentra el archivo (o haz doble clic sobre él para usar el instalador gráfico).
 3. Instala con:
 
